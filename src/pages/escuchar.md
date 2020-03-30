@@ -9,8 +9,10 @@ tags:
   - verb
   - verbs
 ---
-You **"scootch"** your chair in closer **to listen**
+When you're listening to an amazing story, but they storyteller is a little too quiet....
 
+You have **"scootch"** your chair in closer **to listen**
 
+**Escuchar : To listen**
 
 ![person scootching chair in to listen to storyteller](/img/screen-shot-2020-03-29-at-11.00.52-am.png)
